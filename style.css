@@ -1,0 +1,22 @@
+body {
+    background-color: #7b7
+}
+
+div {
+    background-color: #7b7
+}
+
+.li-navbar {
+    list-style-type: none;
+
+}
+.h1-navbar{
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-navbar{
+    align-items: center;
+}
